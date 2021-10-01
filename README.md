@@ -7,7 +7,7 @@
 
 Antes de qualquer coisa, clone o repositório!
 ```console
-git clone https://github.com/WandersonFontes/CESAR_Inovacao.git
+git clone https://github.com/WandersonFontes/alphaAPI.git
 ```
 
 :one: Crie um ambiente virtual
@@ -23,5 +23,10 @@ source .venv/bin/activate
 :three: Instale as dependências.
 ```console
 python -m pip install -r requirements.txt
+```
+
+:four: Escolha a função que deseja e execute o arquivo .py.
+```console
+python series_stock.py
 ```
 
